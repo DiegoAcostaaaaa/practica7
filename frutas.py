@@ -49,5 +49,5 @@ while True:
         print('//////////////////////////////////////////')
         fin=input('Escriba "s" para seguir agregando productos:\n>>>')
         if fin!='s':
+            print('Gracias por su compra :)')
             break
-    
